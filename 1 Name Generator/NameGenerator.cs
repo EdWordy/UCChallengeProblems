@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NobleIntent.Core.Generation
+namespace Core.Generation
 
 {
     public static class NameGenerator
