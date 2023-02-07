@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using NobleIntent.Core.Generation;
+using Core.Generation;
 using System;
 
 
