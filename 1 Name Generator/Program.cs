@@ -131,9 +131,7 @@ if (answer is "y" or "Y")
     {
         // D - LETTER FREQUENCIES + SYNACTIC RULES
         // - - - - - - - - - - - - - - - - 
-
-        // build the probabilistic letter list
-        Dictionary<int, string> LetterList4 = NameGenerator.BuildLetterList2();
+        
         // build the consontant and vowels lists
         Dictionary<int, string> ConsonantList = NameGenerator.BuildConsonantsList();
         Dictionary<int, string> VowelList = NameGenerator.BuildVowelsList();
