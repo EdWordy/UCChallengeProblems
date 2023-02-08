@@ -5,8 +5,6 @@ namespace Core.Generation
 {
     public static class NameGenerator
     {
-        static Dictionary<int, string> openWith = new Dictionary<int, string>();
-
         // generation algos
 
         public static List<String> WordAlgo1(int wordListAmount, int wordsPerName, int syllableLength, Dictionary<int, string> syllableList)
