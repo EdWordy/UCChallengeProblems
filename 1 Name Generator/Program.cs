@@ -129,7 +129,7 @@ if (answer is "y" or "Y")
     }
     else if (answer1 == "4")
     {
-        // D - LETTER FREQUENCIES + SYNACTIC RULES
+        // D - SYNACTIC RULES
         // - - - - - - - - - - - - - - - - 
         
         // build the consontant and vowels lists
