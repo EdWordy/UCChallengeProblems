@@ -1,5 +1,5 @@
 # UCChallengeProblems
-Evelyns Discord challenge problems
+My code for Evelyns' C# Discord challenge problems, in order of completion
 
 ## CONTENTS
 
